@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Elizabeth dos Santos
 
 - 🔭 Migrando de area cozinheira para programação 
-- 🌱 Hoje em dia eu estou estudando React
+- 🌱 Fazendo um bootcamp da dio FullStack
 - 😄 Pronouns: ela/dela
 
 <div align="center">
