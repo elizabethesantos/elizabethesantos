@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Elizabeth dos Santos
 
-- 🔭 Migrando de area cozinheira para programação 
-- 🌱 Fazendo um bootcamp da dio FullStack
+- 🔭  Desenvolvedora  RPA  |  UIPath
 - 😄 Pronouns: ela/dela
 
 <div align="center">
