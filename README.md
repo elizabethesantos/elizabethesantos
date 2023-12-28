@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethesantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Elizabeth-Js" height="30" width="40"     src="https://camo.githubusercontent.com/9d7eed2fcf4ef81a1925be63f140fe74e61c168e7e6bc474793feedd9844b04e/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f552f7569706174682d6c6f676f2d413143344641323034432d7365656b6c6f676f2e636f6d2e706e67">
+  <img align="center" alt="Elizabeth-Js" height="40" width="60"     src="https://camo.githubusercontent.com/9d7eed2fcf4ef81a1925be63f140fe74e61c168e7e6bc474793feedd9844b04e/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f552f7569706174682d6c6f676f2d413143344641323034432d7365656b6c6f676f2e636f6d2e706e67">
   <img align="center" alt="Elizabeth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elizabeth-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elizabeth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
