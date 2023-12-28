@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Elizabeth dos Santos
 
-- 🔭  Desenvolvedora RPA | UIPath
+- 🔭  Desenvolvedora RPA  UIPath
 - 😄 Pronouns: ela/dela
 
 <div align="center">
