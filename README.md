@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Elizabeth-Uipath" height="40" width="100"     src="https://github.com/elizabethesantos/elizabethesantos/blob/main/.github/workflows/PATH_BIG.svg">
   <img align="center" alt="Elizabeth-Git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
-  <img align="center" alt="Elizabeth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Elizabeth-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elizabeth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elizabeth-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elizabeth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
