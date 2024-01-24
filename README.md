@@ -10,7 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elizabeth-Uipath" height="40" width="100"     src="https://github.com/elizabethesantos/elizabethesantos/blob/main/.github/workflows/PATH_BIG.svg">
-  <img align="center" alt="Elizabeth-Js" height="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
+  <img align="center" alt="Elizabeth-Git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
   <img align="center" alt="Elizabeth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elizabeth-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elizabeth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
