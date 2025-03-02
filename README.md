@@ -3,10 +3,11 @@
 - 🔭  Desenvolvedora RPA  UIPath, Python
 - 😄  Pronouns: ela/dela
 
-<div align="center">
-  <a href="https://github.com/elizabethesantos">
-  
+<div  align="center"><br>
+  <a href="https://github.com/elizabethesantos">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethesantos&layout=compact&langs_count=7&theme=dracula"/>
+    
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=elizabethesantos&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elizabeth-Uipath" height="40" width="100"     src="https://github.com/elizabethesantos/elizabethesantos/blob/main/.github/workflows/PATH_BIG.svg">
