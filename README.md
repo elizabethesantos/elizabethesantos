@@ -21,7 +21,6 @@
 </div>
 
 ## GitHub Stats    
-  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=elizabethesantos&theme=dracula&show_icons=true)
   ![GitHub Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethesantos&layout=compact&langs_count=7&theme=dracula)      
 
 
